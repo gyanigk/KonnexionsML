@@ -1,0 +1,39 @@
+KONNEXIONS ML -2021
+DAY 1 Practice python
+1. List Some Mega Projects hosted in Python 
+2. List Python Libraries Used in Different IT Domains 
+3. Write Down difference between interpreter and compiler 
+4. What is Data Structure, why we need one in programs?  
+Create a list data type and store names of your friends in it (at least 5), check out what are methods available in 
+5. list data type, try to figure out their working using help function in python. 
+6. What is difference between ordered data type and unordered data type?  
+7. Write down types of each value given? ( in python) 
+	100 
+	105.5 
+	192.56j 	
+	10+6j 
+	‘10’ 
+	‘hello world’ 
+	[ 10, 20, 50, 100] 
+	{ ‘name’: ‘sachin’, ‘age’: 24, ‘language’: ‘python’ } 
+
+8. Explore split, strip, replace, center, title methods of string data type in python 
+9. Explore append, pop, remove, sort methods of list data type 
+10. Create 5 real time list to store some useful information in python eg. Language = [ ‘java’, ‘c’, ‘c++’, ‘ruby’] 
+11. What is difference between mutable and immutable data types in python 
+12. What are identifiers, list rules of identifiers in python 
+13. What is type casting? 
+14. What are operators? How many types of operators are there in python? 
+16. What do the following expressions evaluate to? 
+	a. 'Hello world!'[1] 
+	b. 'Hello world!'[0:5] 
+	c. 'Hello world!'[:5] 
+	d. 'Hello world!'[3:] 
+
+17. What do the following expressions evaluate to? 
+	a. 'Hello'.upper() 
+	b. 'Hello'.upper().isupper() 
+	c. 'Hello'.upper().lower() 
+
+18. What do the following expressions evaluate to? 
+	a. 'Remember, remember, the fifth of November.'.split()

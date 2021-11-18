@@ -1,4 +1,4 @@
-KONNEXIONS ML -2021
+git KONNEXIONS ML -2021
 DAY 1 Practice python
 1. List Some Mega Projects hosted in Python 
 2. List Python Libraries Used in Different IT Domains 
@@ -12,14 +12,14 @@ Create a list data type and store names of your friends in it (at least 5), chec
 	105.5 
 	192.56j 	
 	10+6j 
-	‘10’ 
-	‘hello world’ 
+	ï¿½10ï¿½ 
+	ï¿½hello worldï¿½ 
 	[ 10, 20, 50, 100] 
-	{ ‘name’: ‘sachin’, ‘age’: 24, ‘language’: ‘python’ } 
+	{ ï¿½nameï¿½: ï¿½sachinï¿½, ï¿½ageï¿½: 24, ï¿½languageï¿½: ï¿½pythonï¿½ } 
 
 8. Explore split, strip, replace, center, title methods of string data type in python 
 9. Explore append, pop, remove, sort methods of list data type 
-10. Create 5 real time list to store some useful information in python eg. Language = [ ‘java’, ‘c’, ‘c++’, ‘ruby’] 
+10. Create 5 real time list to store some useful information in python eg. Language = [ ï¿½javaï¿½, ï¿½cï¿½, ï¿½c++ï¿½, ï¿½rubyï¿½] 
 11. What is difference between mutable and immutable data types in python 
 12. What are identifiers, list rules of identifiers in python 
 13. What is type casting? 

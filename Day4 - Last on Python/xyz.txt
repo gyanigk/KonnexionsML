@@ -1,0 +1,131 @@
+Python 
+
+Basics - syntax, data types,dict, list, tuples
+
+SETS - unique 
+list comprehension 
+
+while loops
+functions 
+exception
+classes and objects
+files IO
+
+
+Shivank - NUMPY lib
+
+i=0
+for i in range(0,5,step) :
+ [  ]
+
+while (i<5)
+
+
+
+
+
+you allow the user to chose to exit
+
+flag 
+
+break to exit loop
+
+
+
+functions 
+
+calculator - add sub mult div pow log sqr
+
+commoncalucalator function - add sub mult div
+	if user === 'add':
+			a+b
+			add execute
+	elif user == 'sub' :
+			a-b
+			sub execute 
+
+uncommoncalculator function - log pow sqr
+
+main():
+	input =  (add sub mult div pow log sqr)
+	
+
+
+	while  true:
+		user 
+		if user === 'add':
+			a+b
+			add execute
+		elif user == 'sub' :
+			a-b
+			sub execute 
+
+
+def function_name(function_parameter) :
+	
+Parameters are placeholders for the data 
+we can pass to functions. Arguments
+are the actual values we pass.
+We have two types of arguments:
+
+• Positional arguments: their position 
+(order) matters
+• Keyword arguments: position doesn’t matter - 
+we prefix them with the parameter
+name. 
+
+
+methods
+
+
+Functions, Classes & objects 
+
+lamb , far , maruti, hyn, 
+Lamb : car1 ...car 5
+far : car1....car10
+
+car 1 : 
+	- color
+	- speed
+	- speed calculator
+	- tire size
+	- spoiler 
+	- suspension
+	
+[Classes - {objects (variables,functions)}]
+
+Car Manu
+	- color
+	- speed
+	- tire size
+	- spoiler 
+	- suspension
+	
+
+
+Classes
+Inheritance
+modules
+packages
+
+files 
+
+
+r - read
+w - write
+a - append
+r+ - all - reading and writing
+
+open()
+write()
+close()
+
+with()
+split()
+
+
+
+
+
+
+

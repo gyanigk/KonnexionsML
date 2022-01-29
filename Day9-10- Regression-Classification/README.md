@@ -4,6 +4,19 @@
 - There are alot of resources curated for specially practice purposes.
 - There are more topics notebooks than u have been taught, so go through
 
+### Topics
+- Getting Data
+- Git and GitHub
+- Pandas
+- Numpy, Machine Learning, KNN
+- scikit-learn, Model Evaluation Procedures
+- Linear Regression
+- Logistic Regression, Preview of Other Models
+- Model Evaluation Metrics
+- Working a Data Problem
+- Clustering and Visualization
+- Naive Bayes
+
 **Resources:**
 * [dataschool blog](https://www.dataschool.io/applying-and-interpreting-linear-regression/)
 * [Google Official tutorial notebooks](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
